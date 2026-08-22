@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Схема согласованной инженерной системы дома</title>
+  <desc id="desc">Кондиционирование, вентиляция, отопление и автоматика связаны вокруг понятного сценария комфорта.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#10211f"/><stop offset="1" stop-color="#1b3a35"/></linearGradient>
+    <linearGradient id="hot" x1="0" x2="1"><stop stop-color="#e7a762"/><stop offset="1" stop-color="#f8d69f"/></linearGradient>
+    <linearGradient id="cool" x1="0" x2="1"><stop stop-color="#79b9cb"/><stop offset="1" stop-color="#c4e3e8"/></linearGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%"><feDropShadow dx="0" dy="16" stdDeviation="18" flood-color="#06110f" flood-opacity=".25"/></filter>
+  </defs>
+  <rect width="1200" height="700" rx="28" fill="url(#bg)"/>
+  <g opacity=".12" fill="none" stroke="#fff" stroke-width="1"><path d="M0 100H1200M0 200H1200M0 300H1200M0 400H1200M0 500H1200M0 600H1200"/><path d="M100 0V700M200 0V700M300 0V700M400 0V700M500 0V700M600 0V700M700 0V700M800 0V700M900 0V700M1000 0V700M1100 0V700"/></g>
+  <text x="70" y="90" fill="#e3d8c9" font-family="Arial, sans-serif" font-size="18" letter-spacing="3">ИНФОГРАФИКА · ЕДИНЫЙ СЦЕНАРИЙ</text>
+  <text x="70" y="145" fill="#fffaf2" font-family="Georgia, serif" font-size="42">Инженерия работает как одна система</text>
+  <g fill="none" stroke-linecap="round" stroke-width="4" opacity=".95">
+    <path d="M260 330 C340 330 375 350 450 350" stroke="url(#cool)"/>
+    <path d="M750 350 C825 350 860 330 940 330" stroke="url(#hot)"/>
+    <path d="M350 490 C390 450 420 420 465 395" stroke="#d8dbc9"/>
+    <path d="M740 395 C790 430 810 455 850 490" stroke="#d8dbc9"/>
+  </g>
+  <g filter="url(#shadow)">
+    <rect x="70" y="255" width="220" height="150" rx="20" fill="#f6f1e8"/>
+    <circle cx="115" cy="305" r="22" fill="#b8dce1"/><path d="M102 305h26M115 292v26" stroke="#1b3a35" stroke-width="2"/>
+    <text x="150" y="301" fill="#18312d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Кондиционирование</text>
+    <text x="102" y="345" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">Тишина · точный поток</text><text x="102" y="372" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">без конфликта с интерьером</text>
+    <rect x="910" y="255" width="220" height="150" rx="20" fill="#f6f1e8"/>
+    <circle cx="955" cy="305" r="22" fill="#f2cb93"/><path d="M943 305h24M955 293v24" stroke="#6c421d" stroke-width="2"/>
+    <text x="990" y="301" fill="#18312d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Отопление</text>
+    <text x="942" y="345" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">Ровное тепло · зоны</text><text x="942" y="372" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">и понятное обслуживание</text>
+    <rect x="170" y="465" width="260" height="150" rx="20" fill="#f6f1e8"/>
+    <circle cx="215" cy="515" r="22" fill="#c7d9cc"/><path d="M203 515c10-12 20-12 24 0-8 11-16 11-24 0Z" fill="none" stroke="#1b3a35" stroke-width="2"/>
+    <text x="250" y="511" fill="#18312d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Вентиляция</text>
+    <text x="202" y="555" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">Свежий воздух · малый шум</text><text x="202" y="582" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">и сервисный доступ</text>
+    <rect x="770" y="465" width="260" height="150" rx="20" fill="#f6f1e8"/>
+    <circle cx="815" cy="515" r="22" fill="#d9d1bb"/><path d="M807 520l8-14 8 14Z" fill="none" stroke="#1b3a35" stroke-width="2"/>
+    <text x="850" y="511" fill="#18312d" font-family="Arial, sans-serif" font-size="21" font-weight="700">Автоматика</text>
+    <text x="802" y="555" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">Сценарии · мониторинг</text><text x="802" y="582" fill="#4e625d" font-family="Arial, sans-serif" font-size="16">и управляемый расход</text>
+  </g>
+  <g filter="url(#shadow)"><circle cx="600" cy="350" r="156" fill="#f9f2e7"/><circle cx="600" cy="350" r="126" fill="none" stroke="#b8b29f" stroke-width="1.5" stroke-dasharray="5 8"/><circle cx="600" cy="350" r="87" fill="#1c3b35"/><path d="M561 362c22 16 56 16 78 0" fill="none" stroke="#f4d8ad" stroke-width="4" stroke-linecap="round"/><circle cx="575" cy="332" r="6" fill="#f4d8ad"/><circle cx="625" cy="332" r="6" fill="#f4d8ad"/><text x="600" y="440" text-anchor="middle" fill="#28423c" font-family="Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="2">ЧЕЛОВЕК</text></g>
+  <text x="600" y="500" text-anchor="middle" fill="#fffaf2" font-family="Georgia, serif" font-size="26">Комфорт без лишней техники на виду</text>
+  <text x="600" y="535" text-anchor="middle" fill="#d7e0d7" font-family="Arial, sans-serif" font-size="16">Все решения координируются до монтажа, а не исправляются после отделки.</text>
+</svg>
