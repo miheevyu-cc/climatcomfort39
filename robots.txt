@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://climatcomfort39.ru/sitemap.xml
+Host: climatcomfort39.ru
